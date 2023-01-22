@@ -2,6 +2,22 @@
     position: relative;
 }
 
+.btn-explor {
+    background: linear-gradient(270deg, hsl(0, 100%, 60%) 0%, #fd8636 100%);
+    border-radius: 10px;
+    padding: 10px 20px;
+    
+   
+}
+
+.btn-explor:hover {
+    background: linear-gradient(270deg, #ff0000 0%, #ff7c25 100%);
+    border-radius: 10px;
+  
+   
+    
+}
+
 .rating-div {
     position: absolute;
     bottom: -20px;
