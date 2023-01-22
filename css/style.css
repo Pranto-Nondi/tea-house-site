@@ -1,0 +1,14 @@
+.banner-div {
+    position: relative;
+}
+
+.rating-div {
+    position: absolute;
+    bottom: -20px;
+    z-index: 1;
+    background: #d3d3d3;
+    box-shadow: 0px 7px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    width: 150px;
+    height: 80px;
+}
