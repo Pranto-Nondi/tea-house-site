@@ -41,3 +41,29 @@
     background: rgba(87, 118, 57, 0.1);
     border-radius: 10px;
 }
+
+/* Meet Our Super Clients */
+.clients-container {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius: 10px;
+    height: 510px;
+
+}
+
+.client-descrip {
+    background: #FFFFFF;
+    border-radius: 8px;
+    opacity: 0.3;
+    width: 380px;
+    height: 150px
+}
+
+.client-descrip-middle {
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 380px;
+    height:150px;
+    margin-left: -100px;
+   
+
+}
