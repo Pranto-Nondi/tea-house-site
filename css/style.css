@@ -1,3 +1,4 @@
+/* banner part */
 .banner-div {
     position: relative;
 }
@@ -6,16 +7,16 @@
     background: linear-gradient(270deg, hsl(0, 100%, 60%) 0%, #fd8636 100%);
     border-radius: 10px;
     padding: 10px 20px;
-    
-   
+
+
 }
 
 .btn-explor:hover {
     background: linear-gradient(270deg, #ff0000 0%, #ff7c25 100%);
     border-radius: 10px;
-  
-   
-    
+
+
+
 }
 
 .rating-div {
@@ -27,4 +28,16 @@
     border-radius: 10px;
     width: 150px;
     height: 80px;
+}
+
+/* Great Tea, Freshly Presented  */
+.primary-color {
+    background: rgba(230, 166, 35, 0.1);
+    border-radius: 10px;
+
+}
+
+.secondary-color {
+    background: rgba(87, 118, 57, 0.1);
+    border-radius: 10px;
 }
